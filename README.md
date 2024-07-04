@@ -42,3 +42,6 @@ The analysis involves Exploratory Data Analysis (EDA) to identify patterns and r
 * Interest Rates: Consider the loan term and associated interest rates when assessing loan applications.
 * Employment Length: Pay attention to applicants' employment length, particularly those with very high or very low years of experience.
 * Loan Purpose: Give special consideration to applications for debt consolidation and credit card purposes.
+## Get [Dataset]((https://www.kaggle.com/datasets/ahmedmohameddawoud/lending-club-loan-data-most-accurate/data))
+ 
+
