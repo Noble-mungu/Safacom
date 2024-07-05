@@ -1,6 +1,6 @@
 ## Loan Default Risk Analysis
  
-This project contains the analysis and findings of loan default risk for the largest online loan marketplace, which facilitates personal loans, business loans, and financing of medical procedures. The primary goal is to identify risky loan applicants to reduce credit loss. Credit loss occurs when borrowers default on their loans, leading to financial loss for the company.
+This project contains analysis and findings of loan default risk for the largest online loan marketplace, which facilitates personal loans, business loans, and financing of medical procedures. The primary goal is to identify risky loan applicants to reduce credit loss. Credit loss occurs when borrowers default on their loans, leading to financial loss for the company.
 
 ## Objectives
 * Identify Risky Applicants: The main objective is to identify loan applicants who are likely to default. Reducing loans to these applicants will minimize the company's credit loss.
